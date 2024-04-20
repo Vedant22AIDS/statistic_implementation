@@ -1,0 +1,1 @@
+This repository contains Python implementations of various statistical methods and concepts. These implementations are meant for educational purposes and can serve as a reference for understanding how statistical algorithms work at a fundamental level.
